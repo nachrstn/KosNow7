@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "194431366572",
+    "firebase_url": "https://kosnow-e9615-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kosnow-e9615",
+    "storage_bucket": "kosnow-e9615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194431366572:android:d25a28f64d4f5401cd3609",
+        "android_client_info": {
+          "package_name": "com.example.kosnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194431366572-ofahv13peubtcfnhqdnpq6thgqcjjgrp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kosnow",
+            "certificate_hash": "b715e08a2ad89237ae69fdfcf52018cc7afc6628"
+          }
+        },
+        {
+          "client_id": "194431366572-flb31v1quvd9fofeop9s83mhsusgm294.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvc87_r5SHYyiBfjPQ3fxeh5zNQvtUYeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194431366572-flb31v1quvd9fofeop9s83mhsusgm294.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
